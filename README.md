@@ -1,7 +1,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ## About Me <img src="https://cdn3.emoji.gg/emojis/21509-sharingane.gif" width="40" height="40" />&nbsp;
-### I'm professional Software Engineer with more than 4 years of expirence
+### I'm professional Software Engineer with more than 2 years of expirence
 ### I use modern technologies to develop high-load applications
 ## My hobbies <img src="https://cdn3.emoji.gg/emojis/59170-zerotwo-heartloverainbow.gif" width="40" height="40" />&nbsp;
 ### I'm really obsessed play computer games and develop computer games in C++/Unreal Engine 5 <img src="https://cdn3.emoji.gg/emojis/97903-anime-dance.gif" width="20" height="20" />&nbsp;
